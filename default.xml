@@ -13,8 +13,8 @@
  
   
 
-  <project path="ndk" name="platform/ndk" remote="aosp" />
-  <project path="pdk" name="platform/pdk" remote="aosp" />
+<!--  <project path="ndk" name="platform/ndk" remote="aosp" />
+  <project path="pdk" name="platform/pdk" remote="aosp" /> -->
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="darwin" remote="aosp" />
   <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="darwin" remote="aosp" />
   <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="linux" remote="aosp" />
