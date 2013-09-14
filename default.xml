@@ -44,7 +44,7 @@
   <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7" remote="aosp" />
   <project path="prebuilts/misc" name="platform/prebuilts/misc" remote="aosp" />
   <project path="prebuilts/ndk" name="platform/prebuilts/ndk" remote="aosp" />
-  <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" >
+  <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" />
 
